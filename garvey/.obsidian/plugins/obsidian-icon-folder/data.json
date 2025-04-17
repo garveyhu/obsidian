@@ -1,0 +1,100 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbFlag",
+      "IbFullScreen",
+      "IbDocumentText",
+      "IbGraphicsAndDesign",
+      "IbHugContentHorizontal"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "icon": "IbAcademicBook",
+        "rule": "MarkMind/PDF/complex/交通安全管理生产监督监管系统/基于移动GIS的土地执法监察系统的设计与实现_岳汉秋.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "IbAcademicBook",
+        "rule": "MarkMind/PDF/complex/交通安全管理生产监督监管系统/基于ANDROID平台的移动GIS研究与实现_张俊杰.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "icon": "IbDocumentText",
+        "rule": "MarkMind/PDF/综合仓库/交通安全管理生产监督监管系统\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 2,
+        "useFilePath": true
+      },
+      {
+        "icon": "IbFullScreen",
+        "rule": "Excalidraw/综合仓库\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 3,
+        "useFilePath": true
+      },
+      {
+        "icon": "IbFullScreen",
+        "rule": "Excalidraw\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 4,
+        "useFilePath": true
+      },
+      {
+        "icon": "IbTreeMapRight",
+        "rule": "MarkMind/MindMap\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 5,
+        "useFilePath": true
+      },
+      {
+        "icon": "IbDocumentText",
+        "rule": "MarkMind/PDF\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 6,
+        "useFilePath": true
+      },
+      {
+        "icon": "IbTreeMapLeft",
+        "rule": "Diagrams\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 7,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "assets": "IbTriangle",
+  "Excalidraw/Thought List/毕业论文.md": "IbFullScreen",
+  "Excalidraw/综合仓库/效率管理/工作流v1.0.md": "IbFullScreen",
+  "Diagrams": "IbTreeMapLeft",
+  "Excalidraw": "IbGraphicsAndDesign",
+  "Excalidraw/complex/other/考研": "IbFlag"
+}

@@ -1,0 +1,186 @@
+{
+  "recentFiles": [
+    {
+      "basename": "bench",
+      "path": "Excalidraw/bench/bench.md"
+    },
+    {
+      "basename": "template",
+      "path": "Excalidraw/bench/template.md"
+    },
+    {
+      "basename": "解题思路",
+      "path": "Excalidraw/complex/算法/解题思路.md"
+    },
+    {
+      "basename": "与或异或",
+      "path": "Excalidraw/complex/算法/与或异或.md"
+    },
+    {
+      "basename": "树",
+      "path": "Excalidraw/complex/算法/树.md"
+    },
+    {
+      "basename": "Design Pattern",
+      "path": "Excalidraw/complex/设计模式/Design Pattern.md"
+    },
+    {
+      "basename": "template-api",
+      "path": "Diagrams/bench/template-api.svg"
+    },
+    {
+      "basename": "高效开发工作流",
+      "path": "Diagrams/bench/高效开发工作流.svg"
+    },
+    {
+      "basename": "template",
+      "path": "Diagrams/bench/template.svg"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "Diagrams/Untitled Diagram.svg"
+    },
+    {
+      "basename": "毕业设计时序图",
+      "path": "Diagrams/complex/other/毕业设计时序图.svg"
+    },
+    {
+      "basename": "毕业设计ER图",
+      "path": "Diagrams/complex/other/毕业设计ER图.svg"
+    },
+    {
+      "basename": "SPI",
+      "path": "Excalidraw/complex/技术/SPI.md"
+    },
+    {
+      "basename": "并行并发、异步同步、单线程多线程",
+      "path": "Excalidraw/complex/技术/并行并发、异步同步、单线程多线程.md"
+    },
+    {
+      "basename": "核心对象关系",
+      "path": "Excalidraw/complex/other/sunyard/外呼系统/核心对象关系.md"
+    },
+    {
+      "basename": "名单导入流程",
+      "path": "Excalidraw/complex/other/sunyard/外呼系统/名单导入流程.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "assets/image-import/obsidian.png"
+    },
+    {
+      "basename": "字节、字符、字符串",
+      "path": "Excalidraw/complex/技术/字节、字符、字符串.md"
+    },
+    {
+      "basename": "外呼系统结构",
+      "path": "Excalidraw/complex/other/sunyard/外呼系统/外呼系统结构.md"
+    },
+    {
+      "basename": "核心接口梳理",
+      "path": "Excalidraw/complex/other/sunyard/外呼系统/核心接口梳理.md"
+    },
+    {
+      "basename": "话务平台流程",
+      "path": "Excalidraw/complex/other/sunyard/外呼系统/话务平台流程.md"
+    },
+    {
+      "basename": "进程状态",
+      "path": "Excalidraw/complex/计算机/进程状态.md"
+    },
+    {
+      "basename": "【系统、需求、业务、接口、代码逻辑】",
+      "path": "Excalidraw/complex/技术/【系统、需求、业务、接口、代码逻辑】.md"
+    },
+    {
+      "basename": "javaweb-zhousiyuan",
+      "path": "Excalidraw/complex/other/javaweb-zhousiyuan.md"
+    },
+    {
+      "basename": "基础实体类使用流程",
+      "path": "Excalidraw/complex/技术/基础实体类使用流程.md"
+    },
+    {
+      "basename": "统一异常抛出、处理、返回流程",
+      "path": "Excalidraw/complex/技术/统一异常抛出、处理、返回流程.md"
+    },
+    {
+      "basename": "springboot父项目pom依赖关系",
+      "path": "Excalidraw/complex/技术/springboot父项目pom依赖关系.md"
+    },
+    {
+      "basename": "Spring Security OAuth2",
+      "path": "Excalidraw/complex/技术/Spring Security OAuth2.md"
+    },
+    {
+      "basename": "微积分定理",
+      "path": "Excalidraw/complex/other/考研/微积分定理.md"
+    },
+    {
+      "basename": "工作流",
+      "path": "Excalidraw/complex/other/sunyard/标签系统/工作流.md"
+    },
+    {
+      "basename": "客户经理外呼系统结构",
+      "path": "Excalidraw/complex/other/sunyard/客户经理外呼系统/客户经理外呼系统结构.md"
+    },
+    {
+      "basename": "配置管理",
+      "path": "Excalidraw/complex/LLM/配置管理.md"
+    },
+    {
+      "basename": "培训考试系统",
+      "path": "Excalidraw/complex/other/sunyard/培训考试系统/培训考试系统.md"
+    },
+    {
+      "basename": "需求设计",
+      "path": "Excalidraw/complex/LLM/需求设计.md"
+    },
+    {
+      "basename": "idea",
+      "path": "Excalidraw/complex/LLM/langchain/idea.md"
+    },
+    {
+      "basename": "langchain开发流程",
+      "path": "Excalidraw/complex/LLM/langchain/langchain开发流程.md"
+    },
+    {
+      "basename": "maven插件",
+      "path": "Excalidraw/complex/技术/maven插件.md"
+    },
+    {
+      "basename": "主流登录方式",
+      "path": "Excalidraw/complex/技术/主流登录方式.md"
+    },
+    {
+      "basename": "archeruu maven包组织结构",
+      "path": "Excalidraw/complex/技术/archeruu maven包组织结构.md"
+    },
+    {
+      "basename": "工作流v2.0",
+      "path": "Excalidraw/complex/效率管理/工作流v2.0.md"
+    },
+    {
+      "basename": "233法则v2.0",
+      "path": "Excalidraw/complex/效率管理/233法则v2.0.md"
+    },
+    {
+      "basename": "毕业论文",
+      "path": "Excalidraw/complex/other/毕业论文.md"
+    },
+    {
+      "basename": "标签索引树",
+      "path": "Excalidraw/complex/效率管理/标签索引树.md"
+    },
+    {
+      "basename": "思想对能力的影响",
+      "path": "Excalidraw/complex/思考/思想对能力的影响.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
+  "maxLength": null,
+  "openType": "tab"
+}

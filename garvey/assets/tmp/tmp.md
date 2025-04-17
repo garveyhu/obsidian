@@ -1,0 +1,4 @@
+Android SDK Platform-Tools 是 Android SDK 的一个组件。它包含与 Android 平台进行交互的工具，主要是 [`adb`](https://developer.android.com/studio/command-line/adb?hl=zh-cn) 和 [`fastboot`](https://android.googlesource.com/platform/system/core/+/master/fastboot/#fastboot)。虽然 `adb` 是 Android 应用开发所必需的，但应用开发者通常仅使用 Studio 安装的副本。如果您想直接从命令行使用 `adb` 并且未安装 Studio，此项下载非常有用。（如果您安装了 Studio，建议您仅使用 Studio 安装的副本，因为 Studio 会自动对其进行更新。）如果您想要解锁设备的引导加载程序并为其刷入新的系统映像，则需要 `fastboot`。该软件包曾经包含 `systrace`，但已由 Studio 性能分析器、gpuinspector.dev 或 Perfetto 取代。
+
+<font color="#244061">虽然 `adb` 和 `fastboot` 中的某些新功能仅适用于较新的 Android 版本，但它们是向后兼容的，因此您只需使用最新版本的 SDK 平台工具即可。如果您发现异常，请提交 bug 报告。</font>
+> 萨拉地方，哈士大夫

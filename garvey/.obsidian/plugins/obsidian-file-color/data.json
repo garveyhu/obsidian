@@ -1,0 +1,95 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "7jneRQU2rcv4deNEj_fsd",
+      "name": "",
+      "value": "#000000"
+    },
+    {
+      "id": "9l3w1WyDKSkmnr5voHKjS",
+      "name": "",
+      "value": "#b39494"
+    },
+    {
+      "id": "weZ-DL1Qrr_P6VpglkVib",
+      "name": "",
+      "value": "#4b4444"
+    },
+    {
+      "id": "HQMVtwDPTB3VzBFWfXVA_",
+      "name": "",
+      "value": "#cb3434"
+    },
+    {
+      "id": "yspy9vp13PKHWnPsWsRTM",
+      "name": "",
+      "value": "#6e67d5"
+    },
+    {
+      "id": "cxMQZP0lUtDRHkAN6Xo2C",
+      "name": "",
+      "value": "#a9c964"
+    },
+    {
+      "id": "Yr3T9tZwWgzvnEeBv6BYN",
+      "name": "",
+      "value": "#eee720"
+    },
+    {
+      "id": "WK4jUB4KwoDOaUAhJprqC",
+      "name": "",
+      "value": "#b4cb76"
+    },
+    {
+      "id": "VI9C7O-jICOqKn_GII7Z0",
+      "name": "",
+      "value": "#b846e2"
+    },
+    {
+      "id": "DFBGnIe_WXQsk1QLuohPu",
+      "name": "",
+      "value": "#ce8250"
+    },
+    {
+      "id": "j2tZWeM1KxNXZvAfpvimI",
+      "name": "",
+      "value": "#7cb4de"
+    },
+    {
+      "id": "xx0PWwy-n3Peb9RRfDj_w",
+      "name": "",
+      "value": "#262626"
+    },
+    {
+      "id": "9OgEzv1gYomFRyDGgYtzE",
+      "name": "",
+      "value": "#5c5c5c"
+    },
+    {
+      "id": "KBRM9hWOSh5pBNhjk8New",
+      "name": "",
+      "value": "#8a8a8a"
+    },
+    {
+      "id": "Wm6VA1XN5ktW3KE5wNMOv",
+      "name": "",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "assets",
+      "color": "weZ-DL1Qrr_P6VpglkVib"
+    },
+    {
+      "path": "Excalidraw",
+      "color": "yspy9vp13PKHWnPsWsRTM"
+    },
+    {
+      "path": "Diagrams",
+      "color": "yspy9vp13PKHWnPsWsRTM"
+    }
+  ]
+}

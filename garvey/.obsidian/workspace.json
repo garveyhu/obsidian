@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "e05499c76c8201cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "083fdf34803e3a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8bf77e66416c8c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/complex/算法/与或异或.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "与或异或"
+            }
+          },
+          {
+            "id": "f1cf6d40a272fba3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/bench/template.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "template"
+            }
+          },
+          {
+            "id": "98ca7006b3da5d9e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/bench/bench.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "bench"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6208d12caee06e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b7e47511627c073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92d4e814721fd56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ce88f4933d67f42",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "789df6d42bedf018",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "da3e52ae0058d9e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "d06b79c5dd409783",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "3beba06171b83bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "40be8e2bbf08f241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c082da0dac22523f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f499263bbbc8a79b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f0486850a3527d12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diagrams/bench/template-api.svg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "template-api 的大纲"
+            }
+          },
+          {
+            "id": "750104bb08881e8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/complex/设计模式/Design Pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Design Pattern 的反向链接列表"
+            }
+          },
+          {
+            "id": "8cd272564cd06c22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/complex/技术/SPI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "SPI 的出链列表"
+            }
+          },
+          {
+            "id": "8ebc14f78c28b751",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "98ca7006b3da5d9e",
+  "lastOpenFiles": [
+    "Excalidraw/bench/bench.md",
+    "Excalidraw/bench/template.md",
+    "Excalidraw/complex/算法/解题思路.md",
+    "assets/image-import/Pasted Image 20250326074844_810.png",
+    "assets/image-import/Pasted Image 20250326074813_296.png",
+    "assets/image-import/Pasted Image 20250326074653_436.png",
+    "assets/image-import/Pasted Image 20250326073318_131.png",
+    "assets/image-import/Pasted Image 20250326072852_929.png",
+    "Excalidraw/complex/算法/与或异或.md",
+    "Excalidraw/complex/算法/排序算法.md",
+    "assets/image-import/v2-1c7e20f306ddc02eb4e3a50fa7817ff4_b.gif",
+    "Excalidraw/complex/算法/树.md",
+    "Excalidraw/complex/设计模式/Design Pattern.md",
+    "assets/image-import/Pasted Image 20250315083000_570.png",
+    "assets/image-import/Pasted Image 20250315082923_436.png",
+    "assets/image-import/Pasted Image 20250315082852_680.png",
+    "assets/image-import/Pasted Image 20250315082807_875.png",
+    "Excalidraw/complex/技术/SPI.md",
+    "Excalidraw/complex/技术/并行并发、异步同步、单线程多线程.md",
+    "Excalidraw/complex/other/sunyard/外呼系统/核心对象关系.md",
+    "Excalidraw/complex/other/sunyard/外呼系统/名单导入流程.md",
+    "Excalidraw/complex/技术/字节、字符、字符串.md",
+    "Excalidraw/complex/设计模式",
+    "Excalidraw/complex/other/sunyard/外呼系统/外呼系统结构.md",
+    "Excalidraw/complex/other/sunyard/外呼系统/核心接口梳理.md",
+    "Excalidraw/complex/other/sunyard/外呼系统/话务平台流程.md",
+    "Excalidraw/complex/计算机/进程状态.md",
+    "Excalidraw/complex/计算机",
+    "Excalidraw/complex/技术/【系统、需求、业务、接口、代码逻辑】.md",
+    "Excalidraw/complex/other/javaweb-zhousiyuan.md",
+    "Excalidraw/complex/算法",
+    "Excalidraw/complex/技术/基础实体类使用流程.md",
+    "Excalidraw/complex/技术/统一异常抛出、处理、返回流程.md",
+    "Excalidraw/complex/技术/springboot父项目pom依赖关系.md",
+    "Excalidraw/complex/技术/Spring Security OAuth2.md",
+    "Excalidraw/complex/other/考研/微积分定理.md",
+    "Excalidraw/考研/基本初等函数.md",
+    "MarkMind/MindMap/complex/sunyard/培训考试系统需求树.md",
+    "assets/MarkMind/PDF/complex/技术/springboot-2.7.11.md",
+    "assets/MarkMind/PDF/complex/技术",
+    "assets/MarkMind/PDF/complex/交通安全管理生产监督监管系统",
+    "assets/MarkMind/PDF/complex/other",
+    "assets/MarkMind/MindMap/complex/技术",
+    "assets/MarkMind/MindMap/complex/sunyard",
+    "assets/MarkMind/MindMap/complex/思考",
+    "assets/MarkMind/MindMap/complex/other",
+    "Mind Map/未命名.canvas",
+    "Diagrams/未命名.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas"
+  ]
+}
