@@ -9,12 +9,20 @@
       "path": "Excalidraw/bench/template.md"
     },
     {
-      "basename": "解题思路",
-      "path": "Excalidraw/complex/算法/解题思路.md"
-    },
-    {
       "basename": "与或异或",
       "path": "Excalidraw/complex/算法/与或异或.md"
+    },
+    {
+      "basename": "template",
+      "path": "Diagrams/bench/template.svg"
+    },
+    {
+      "basename": "高效开发工作流",
+      "path": "Diagrams/bench/高效开发工作流.svg"
+    },
+    {
+      "basename": "解题思路",
+      "path": "Excalidraw/complex/算法/解题思路.md"
     },
     {
       "basename": "树",
@@ -27,18 +35,6 @@
     {
       "basename": "template-api",
       "path": "Diagrams/bench/template-api.svg"
-    },
-    {
-      "basename": "高效开发工作流",
-      "path": "Diagrams/bench/高效开发工作流.svg"
-    },
-    {
-      "basename": "template",
-      "path": "Diagrams/bench/template.svg"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "Diagrams/Untitled Diagram.svg"
     },
     {
       "basename": "毕业设计时序图",
