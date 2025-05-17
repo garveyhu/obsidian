@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c4dab0aad2198dc9",
+        "id": "e533d6db2af7603a",
         "type": "tabs",
         "children": [
           {
-            "id": "8046cb8cb3e1ca1c",
+            "id": "b0ac9ecd7b9bcac3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/bench/bench.md"
+                "file": "Excalidraw/complex/ikt/ADOS.md"
               },
               "icon": "excalidraw-icon",
-              "title": "bench"
+              "title": "ADOS"
+            }
+          },
+          {
+            "id": "cec9f82a135ff0cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/complex/other/sunyard/外呼系统/外呼系统结构.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "外呼系统结构"
+            }
+          },
+          {
+            "id": "b3ac751fe428146e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/complex/ikt/省儿保公众号.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "省儿保公众号"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +103,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -96,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 247.5
   },
   "right": {
     "id": "3beba06171b83bfe",
@@ -154,7 +179,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/complex/设计模式/Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Design Pattern 的反向链接列表"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,12 +197,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/complex/技术/SPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SPI 的出链列表"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,62 +224,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-rich-links:Rich Links": false
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "obsidian-rich-links:Rich Links": true
     }
   },
-  "active": "f92d4e814721fd56",
+  "active": "b3ac751fe428146e",
   "lastOpenFiles": [
-    "Excalidraw/bench/template.md",
-    "Excalidraw/bench/bench.md",
-    "Diagrams/Untitled Diagram.svg",
-    "Excalidraw/complex/算法/与或异或.md",
-    "Diagrams/bench/template.svg",
-    "Diagrams/bench/高效开发工作流.svg",
-    "Excalidraw/complex/算法/解题思路.md",
-    "assets/image-import/Pasted Image 20250326074844_810.png",
-    "assets/image-import/Pasted Image 20250326074813_296.png",
-    "assets/image-import/Pasted Image 20250326074653_436.png",
-    "assets/image-import/Pasted Image 20250326073318_131.png",
-    "assets/image-import/Pasted Image 20250326072852_929.png",
-    "Excalidraw/complex/算法/排序算法.md",
-    "assets/image-import/v2-1c7e20f306ddc02eb4e3a50fa7817ff4_b.gif",
-    "Excalidraw/complex/算法/树.md",
-    "Excalidraw/complex/设计模式/Design Pattern.md",
-    "assets/image-import/Pasted Image 20250315083000_570.png",
-    "Excalidraw/complex/技术/SPI.md",
-    "Excalidraw/complex/技术/并行并发、异步同步、单线程多线程.md",
-    "Excalidraw/complex/other/sunyard/外呼系统/核心对象关系.md",
-    "Excalidraw/complex/other/sunyard/外呼系统/名单导入流程.md",
-    "Excalidraw/complex/技术/字节、字符、字符串.md",
-    "Excalidraw/complex/设计模式",
+    "assets/image-import/Pasted Image 20250515154829_890.png",
+    "Excalidraw/complex/ikt/省儿保公众号.md",
     "Excalidraw/complex/other/sunyard/外呼系统/外呼系统结构.md",
-    "Excalidraw/complex/other/sunyard/外呼系统/核心接口梳理.md",
-    "Excalidraw/complex/other/sunyard/外呼系统/话务平台流程.md",
+    "Excalidraw/complex/ikt/ADOS.md",
+    "assets/image-import/Pasted Image 20250515154958_668.png",
+    "assets/image-import/Pasted Image 20250515154904_390.png",
+    "assets/image-import/Pasted Image 20250515154752_036.png",
+    "Excalidraw/bench/template.md",
+    "Excalidraw/complex/ikt/用户权限结构.md",
+    "Excalidraw/complex/ikt/Untitled Diagram.svg",
     "Excalidraw/complex/计算机/进程状态.md",
-    "Excalidraw/complex/计算机",
+    "Excalidraw/bench/bench.md",
+    "Diagrams/bench/template-api.svg",
+    "Diagrams/bench/template.svg",
+    "Diagrams/bench/Untitled Diagram.svg",
+    "Diagrams/bench/高效开发工作流.svg",
+    "2025-05-03.md",
+    "Excalidraw/complex/LLM/需求设计.md",
+    "Excalidraw/complex/LLM/配置管理.md",
+    "Excalidraw/complex/LLM/langchain/langchain开发流程.md",
+    "Excalidraw/complex/LLM/langchain/idea.md",
+    "Excalidraw/complex/设计模式/Design Pattern.md",
+    "Excalidraw/complex/管理学/效率管理/notion进阶使用习惯.md",
+    "Excalidraw/complex/管理学/效率管理/notion技术工作流.md",
+    "Excalidraw/complex/管理学/效率管理",
+    "Excalidraw/complex/管理学/思维管理",
+    "Excalidraw/complex/技术/主流登录方式.md",
+    "Excalidraw/complex/技术/springboot父项目pom依赖关系.md",
     "Excalidraw/complex/技术/【系统、需求、业务、接口、代码逻辑】.md",
-    "Excalidraw/complex/other/javaweb-zhousiyuan.md",
-    "Excalidraw/complex/算法",
+    "Excalidraw/complex/技术/并行并发、异步同步、单线程多线程.md",
     "Excalidraw/complex/技术/基础实体类使用流程.md",
     "Excalidraw/complex/技术/统一异常抛出、处理、返回流程.md",
-    "Excalidraw/complex/技术/springboot父项目pom依赖关系.md",
-    "Excalidraw/complex/技术/Spring Security OAuth2.md",
-    "Excalidraw/complex/other/考研/微积分定理.md",
-    "Excalidraw/考研/基本初等函数.md",
-    "MarkMind/MindMap/complex/sunyard/培训考试系统需求树.md",
+    "Excalidraw/complex/技术/项目管理建模编码流.md",
+    "Excalidraw/complex/技术/字节、字符、字符串.md",
+    "Excalidraw/complex/技术/archeruu maven包组织结构.md",
+    "Excalidraw/complex/技术/maven插件.md",
+    "assets/image-import/Pasted Image 20250429195001_226.png",
+    "Excalidraw/complex/ikt",
+    "Excalidraw/complex/设计模式",
+    "Excalidraw/complex/计算机",
+    "Excalidraw/complex/算法",
     "assets/MarkMind/PDF/complex/技术",
     "assets/MarkMind/PDF/complex/交通安全管理生产监督监管系统",
     "assets/MarkMind/PDF/complex/other",
     "assets/MarkMind/MindMap/complex/技术",
-    "assets/MarkMind/MindMap/complex/sunyard",
-    "assets/MarkMind/MindMap/complex/思考",
-    "assets/MarkMind/MindMap/complex/other",
     "Mind Map/未命名.canvas",
     "Diagrams/未命名.canvas",
     "未命名 1.canvas",

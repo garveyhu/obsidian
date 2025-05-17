@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assets/image-import"
+  "attachmentFolderPath": "assets/image-import",
+  "showInlineTitle": true
 }
